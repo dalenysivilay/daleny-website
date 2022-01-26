@@ -1,9 +1,9 @@
 <template>
-  <Tutorial/>
+  <Navbar />
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  
 }
 </script>
